@@ -1,0 +1,35 @@
+# Archivos y carpetas generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# Configuración local de usuario
+UserSettings/
+
+# VS y JetBrains
+.vs/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Archivos generados o de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Paquetes Unity
+*.unitypackage
